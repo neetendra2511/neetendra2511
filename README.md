@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/neetendra-singh-9844b1200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neetendra-singh-9844b1200/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/neetendra.s25/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/neetendra.s25/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/_panther_1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/_panther_1/" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/neetendrasinghknp2019/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/neetendrasinghknp2019/" height="30" width="40" /></a>
 </p>
