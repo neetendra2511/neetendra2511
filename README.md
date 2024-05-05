@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neetendra Singh</h1>
-<h3 align="center">Web Developer | AI Enthusiast</h3>
+<h3 align="center">Web Developer| AI Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://shorturl.at/qxBLY">
 
